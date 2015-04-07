@@ -28,4 +28,5 @@ Inspired by the [Hackathon Calendar](https://github.com/japacible/Hackathon-Cale
 Other Resources  
 ---------------------  
 [List of Indie Game Jams](http://www.indiegamejams.com/)
+
 [One Game A Month](http://www.onegameamonth.com/)
