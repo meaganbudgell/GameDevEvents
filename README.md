@@ -5,7 +5,7 @@ This repo tracks upcoming game dev events. To add a hackathon to this list, plea
 
 Inspired by the [Hackathon Calendar](([https://github.com/japacible/Hackathon-Calendar])) repo.
 
-| Hackathon                                                | Location        | Date (2015)            |
+| Event                                               | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [TOJam]([http://www.tojam.ca/]) | Toronto, ON | 5.1-5.3 |
 | [Bit Bazaar]([https://bentomiso.com/bit-bazaar-spring-fair-2014]) | Toronto, ON | 5.9 |
