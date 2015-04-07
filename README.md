@@ -1,7 +1,7 @@
 Upcoming Hackathons
 =====================
 
-This repo tracks upcoming game dev events. To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request. **Keep events organized by start date and then alphabetically by city name, then event name.**
+This repo tracks upcoming game dev events. To add an event to this list, please submit an issue or fork this repo and submit a pull request. **Keep events organized by start date and then alphabetically by city name, then event name.**
 
 Inspired by the [Hackathon Calendar](([https://github.com/japacible/Hackathon-Calendar])) repo.
 
