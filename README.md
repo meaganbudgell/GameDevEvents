@@ -20,6 +20,7 @@ Inspired by the [Hackathon Calendar](https://github.com/japacible/Hackathon-Cale
 | [Nordic Game Conference](http://conf.nordicgame.com/)| Malmö, SE | 5.20 - 5.22 |
 | [Ottawa International Game Conference](oigconf.com) | Ottawa, ON | 5.24 - 5.26 |
 | [E3](https://www.e3expo.com/) | Los Angeles, CA | 6.16 - 6.18 |
+| [Allied Media Conference](https://www.alliedmedia.org/amc) | Detroit, MI | 6.18 - 6.21 |
 | [GDC Europe](http://www.gdceurope.com/)| Cologne, DE | 8.3 - 8.4 |
 | [Indiecade](http://indiecade.com/) | Culver City, CA | 10.22 - 10.25 |
 | [GDC China](http://www.gdcchina.com/) | Shanghai, CN | 10.25 - 10.27|
