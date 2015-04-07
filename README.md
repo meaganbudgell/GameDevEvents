@@ -12,6 +12,7 @@ Inspired by the [Hackathon Calendar](https://github.com/japacible/Hackathon-Cale
 | [Ludum Dare 32](http://ludumdare.com/) | Multiple Locations | 4.17 |
 | [Quo Vadis](http://www.qvconf.com/)| Berlin, DE | 4.21 - 4.23 |
 | [Games For Change Festival](http://www.gamesforchange.org/festival/) | New York, NY | 4.21 - 4.23 |
+| [Torontaru](http://torontaru.com/) | Toronto, ON | 4.29 |
 | [TOJam](http://www.tojam.ca/) | Toronto, ON | 5.1-5.3 |
 | [NeuroGaming Conference](http://www.neurogamingconf.com/)| San Francisco, CA | 5.6 - 5.7 |
 | [DigiFest](http://torontodigifest.ca/2015/) | Toronto, ON | 5.7-5.9 | 
@@ -20,6 +21,7 @@ Inspired by the [Hackathon Calendar](https://github.com/japacible/Hackathon-Cale
 | [Ottawa International Game Conference](oigconf.com) | Ottawa, ON | 5.24 - 5.26 |
 | [E3](https://www.e3expo.com/) | Los Angeles, CA | 6.16 - 6.18 |
 | [GDC Europe](http://www.gdceurope.com/)| Cologne, DE | 8.3 - 8.4 |
+| [Indiecade](http://indiecade.com/) | Culver City, CA | 10.22 - 10.25 |
 | [GDC China](http://www.gdcchina.com/) | Shanghai, CN | 10.25 - 10.27|
 | [Gameacon](http://gameacon.com/) | Atlantic City, NJ | 11.20 - 11.22|
 
