@@ -10,6 +10,7 @@ Inspired by the [Hackathon Calendar](https://github.com/japacible/Hackathon-Cale
 | Event                                               | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [Ludum Dare 32](http://ludumdare.com/) | Multiple Locations | 4.17 |
+| [Quo Vadis](http://www.qvconf.com/)| Berlin, DE | 4.21 - 4.23 |
 | [Games For Change Festival](http://www.gamesforchange.org/festival/) | New York, NY | 4.21 - 4.23 |
 | [TOJam](http://www.tojam.ca/) | Toronto, ON | 5.1-5.3 |
 | [NeuroGaming Conference](http://www.neurogamingconf.com/)| San Francisco, CA | 5.6 - 5.7 |
